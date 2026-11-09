@@ -1,0 +1,18 @@
+{
+  "name": "Aero Smash",
+  "short_name": "Aero Smash",
+  "description": "Rompe orbes, mejora tus habilidades y viaja de la noche al día en un mundo Frutiger Aero.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#5ab8f5",
+  "theme_color": "#2aa8ff",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
